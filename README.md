@@ -5,6 +5,8 @@ Praticando conceito de margin and spacer no IOS
 ## Feature
 - Para criar botão com espaçamento interno baseado na fonte  precisa usar método configuration e o objeto filled
 - Criei minhas próprias cores com extension UIColor
+- Ideia abaixo e realizar um espacamento igual entre os botões ,parecido com space-evenly do flex box
+- Segredo e adicionar objeto UILayoutGuide 
 
 
 ```swift
